@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+.title {
+  font-size: 4em;
+}
+li {
+  list-style: none;
+  margin-bottom: 2em;
+}
+
+.start {
+  font-size: 5em;
+  height: 30vh;
+}

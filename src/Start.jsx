@@ -2,9 +2,8 @@
 
 function Start() {
   return (
-    <div>
-        bubby bee
-        
+    <div className="start">
+        Fran Norsworthy
     </div>
   )
 }
