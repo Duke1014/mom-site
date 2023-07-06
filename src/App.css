@@ -56,6 +56,10 @@ li {
   height: 30vh;
 }
 
+.instagram > img{
+  width: 1em;
+}
+
 @media only screen and (max-width: 425px) {
   #root {
     max-width: 425px;
